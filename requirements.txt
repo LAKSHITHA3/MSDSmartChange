@@ -1,0 +1,7 @@
+streamlit
+google-generativeai
+pymupdf
+SpeechRecognition
+matplotlib
+streamlit-authenticator
+pyyaml
