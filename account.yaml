@@ -1,0 +1,38 @@
+cookie:
+  expiry_days: 30
+  key: random_signature_key
+  name: random_cookie_name
+credentials:
+  usernames:
+    user2:
+      email: na20b027@smail.iitm.ac.in
+      first_name: Kakumani
+      last_name: Lakshitha
+      logged_in: false
+      password: $2b$12$CBeHQZTjTl4KbxcLaKSdPu7QLSSIjcF3gTT3dqOKDDrN4P/MS6msW
+      password_hint: counting
+      role: Employee
+      roles: null
+    user3:
+      email: na20b027@gmail.iitm.ac.in
+      first_name: Kakumani
+      last_name: Lakshitha
+      logged_in: false
+      password: $2b$12$/PbyCtrcTBuTjxTqx73HIemRmsCZ8jYWMBAB.7hHx/ax0edOcUhM.
+      password_hint: User_3333
+      role: Employee
+      roles: null
+    user_123:
+      email: elios_star@gmail.com
+      first_name: Elio
+      last_name: Allen
+      password: $2b$12$XnO7.e4PTom5NHyox7YwbOdZxLYRBoYJ8bWsoYALF8C4kxTo8png.
+      password_hint: aibou123
+      role: Employee
+    user_321:
+      email: moon_boon@gmail.com
+      first_name: Selene
+      last_name: Edgar
+      password: $2b$12$Tls.9YmKX8jyi23FYzJT3etYgaLeNcYffW1MJ2tY7iFz2vY1TwfuG
+      password_hint: taies321
+      role: Manager
