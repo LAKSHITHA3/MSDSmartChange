@@ -1,1 +1,1 @@
-Demo link:https://msdsmartchange.streamlit.app/AI_Assistant
+Demo link:https://msdsmartchange.streamlit.app/
